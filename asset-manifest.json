@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/camila-raeder/static/css/main.d361470b.css",
-    "main.js": "/camila-raeder/static/js/main.0fbb54ec.js",
+    "main.css": "/camila-raeder/static/css/main.1d753f2e.css",
+    "main.js": "/camila-raeder/static/js/main.fd0ecd48.js",
     "index.html": "/camila-raeder/index.html",
-    "main.d361470b.css.map": "/camila-raeder/static/css/main.d361470b.css.map",
-    "main.0fbb54ec.js.map": "/camila-raeder/static/js/main.0fbb54ec.js.map"
+    "main.1d753f2e.css.map": "/camila-raeder/static/css/main.1d753f2e.css.map",
+    "main.fd0ecd48.js.map": "/camila-raeder/static/js/main.fd0ecd48.js.map"
   },
   "entrypoints": [
-    "static/css/main.d361470b.css",
-    "static/js/main.0fbb54ec.js"
+    "static/css/main.1d753f2e.css",
+    "static/js/main.fd0ecd48.js"
   ]
 }
