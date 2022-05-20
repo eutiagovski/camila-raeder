@@ -1,14 +1,43 @@
 {
   "files": {
     "main.css": "/camila-raeder/static/css/main.1d753f2e.css",
-    "main.js": "/camila-raeder/static/js/main.e8e345b3.js",
+    "main.js": "/camila-raeder/static/js/main.3d339e85.js",
+    "static/media/23.png": "/camila-raeder/static/media/23.16bd7fa61ef72de1fd19.png",
+    "static/media/corrente-russa-corporal.png": "/camila-raeder/static/media/corrente-russa-corporal.49d322273d63bcad877a.png",
+    "static/media/22.png": "/camila-raeder/static/media/22.514b6970dd64ea0d75ad.png",
+    "static/media/24.png": "/camila-raeder/static/media/24.ae99b62b1fbc93346d96.png",
+    "static/media/revitalizacao-facial-radiofrequencia-mascara.png": "/camila-raeder/static/media/revitalizacao-facial-radiofrequencia-mascara.b42f243e5a90bf7fc8aa.png",
     "static/media/1.png": "/camila-raeder/static/media/1.2efc2926e238aa74b511.png",
+    "static/media/limpeza-peeling-diamante.png": "/camila-raeder/static/media/limpeza-peeling-diamante.2efc2926e238aa74b511.png",
+    "static/media/preenchimento-acido-hialuronico.png": "/camila-raeder/static/media/preenchimento-acido-hialuronico.fb502f94a2021a901cf1.png",
+    "static/media/skin-booster.png": "/camila-raeder/static/media/skin-booster.fb502f94a2021a901cf1.png",
+    "static/media/peeling-quimico.png": "/camila-raeder/static/media/peeling-quimico.2e0694a3f92377b1d6b4.png",
+    "static/media/4.png": "/camila-raeder/static/media/4.534a7b0de8406aa67385.png",
+    "static/media/enzimas.png": "/camila-raeder/static/media/enzimas.5dae0c2794742b7816eb.png",
+    "static/media/detox-corporal.png": "/camila-raeder/static/media/detox-corporal.bfbbc3871e460889cd3f.png",
+    "static/media/micropigmentacao-labial.png": "/camila-raeder/static/media/micropigmentacao-labial.2201c57e5766e32fe60c.png",
+    "static/media/toxina-botulinica.png": "/camila-raeder/static/media/toxina-botulinica.a01b4771ef72df7c8bc1.png",
+    "static/media/design-sobrancelhas.png": "/camila-raeder/static/media/design-sobrancelhas.80ee46fa2097eda54dae.png",
+    "static/media/drenagem-linfatica-facial.png": "/camila-raeder/static/media/drenagem-linfatica-facial.362cd4b9025288f9c34b.png",
+    "static/media/microagulhamento.png": "/camila-raeder/static/media/microagulhamento.122e8c9c1c7cfe0bd311.png",
+    "static/media/massagem-modeladora-corporal.png": "/camila-raeder/static/media/massagem-modeladora-corporal.8a5521f0960325826e4b.png",
+    "static/media/9.png": "/camila-raeder/static/media/9.6c1992e84cd1a8ee99e6.png",
+    "static/media/26.png": "/camila-raeder/static/media/26.8a973c6fb46fa92b8fb6.png",
+    "static/media/3.png": "/camila-raeder/static/media/3.b0450d34d7a708eff322.png",
+    "static/media/14.png": "/camila-raeder/static/media/14.530a142aeb0319c7edcc.png",
+    "static/media/6.png": "/camila-raeder/static/media/6.5516dee0ebddf6badea6.png",
+    "static/media/drenagem-linfatica-corporal.png": "/camila-raeder/static/media/drenagem-linfatica-corporal.8646811aaddc7aa220c7.png",
+    "static/media/harmonizacao-facial.png": "/camila-raeder/static/media/harmonizacao-facial.b9b2959b02f4076e81f9.png",
+    "static/media/hidroclisia-nao-aspirativa-corporal.png": "/camila-raeder/static/media/hidroclisia-nao-aspirativa-corporal.fe775133ff955895ed1b.png",
+    "static/media/peim-microvasos.png": "/camila-raeder/static/media/peim-microvasos.4fceedf2750192843ef8.png",
+    "static/media/clinica-camila-logo.png": "/camila-raeder/static/media/clinica-camila-logo.7a448037313e60b08a10.png",
+    "static/media/27.png": "/camila-raeder/static/media/27.90ebcd50e20a0ef51358.png",
     "index.html": "/camila-raeder/index.html",
     "main.1d753f2e.css.map": "/camila-raeder/static/css/main.1d753f2e.css.map",
-    "main.e8e345b3.js.map": "/camila-raeder/static/js/main.e8e345b3.js.map"
+    "main.3d339e85.js.map": "/camila-raeder/static/js/main.3d339e85.js.map"
   },
   "entrypoints": [
     "static/css/main.1d753f2e.css",
-    "static/js/main.e8e345b3.js"
+    "static/js/main.3d339e85.js"
   ]
 }
