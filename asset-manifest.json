@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/camila-raeder/static/css/main.1d753f2e.css",
-    "main.js": "/camila-raeder/static/js/main.fd0ecd48.js",
+    "main.js": "/camila-raeder/static/js/main.e8e345b3.js",
+    "static/media/1.png": "/camila-raeder/static/media/1.2efc2926e238aa74b511.png",
     "index.html": "/camila-raeder/index.html",
     "main.1d753f2e.css.map": "/camila-raeder/static/css/main.1d753f2e.css.map",
-    "main.fd0ecd48.js.map": "/camila-raeder/static/js/main.fd0ecd48.js.map"
+    "main.e8e345b3.js.map": "/camila-raeder/static/js/main.e8e345b3.js.map"
   },
   "entrypoints": [
     "static/css/main.1d753f2e.css",
-    "static/js/main.fd0ecd48.js"
+    "static/js/main.e8e345b3.js"
   ]
 }
