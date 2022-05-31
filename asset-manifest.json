@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.13542e20.css",
-    "main.js": "/static/js/main.d556c213.js",
+    "main.css": "/static/css/main.b3b06b9f.css",
+    "main.js": "/static/js/main.f814702d.js",
     "static/media/23.png": "/static/media/23.16bd7fa61ef72de1fd19.png",
     "static/media/corrente-russa-corporal.png": "/static/media/corrente-russa-corporal.49d322273d63bcad877a.png",
     "static/media/22.png": "/static/media/22.514b6970dd64ea0d75ad.png",
@@ -33,11 +33,11 @@
     "static/media/clinica-camila-logo.png": "/static/media/clinica-camila-logo.7a448037313e60b08a10.png",
     "static/media/27.png": "/static/media/27.90ebcd50e20a0ef51358.png",
     "index.html": "/index.html",
-    "main.13542e20.css.map": "/static/css/main.13542e20.css.map",
-    "main.d556c213.js.map": "/static/js/main.d556c213.js.map"
+    "main.b3b06b9f.css.map": "/static/css/main.b3b06b9f.css.map",
+    "main.f814702d.js.map": "/static/js/main.f814702d.js.map"
   },
   "entrypoints": [
-    "static/css/main.13542e20.css",
-    "static/js/main.d556c213.js"
+    "static/css/main.b3b06b9f.css",
+    "static/js/main.f814702d.js"
   ]
 }
