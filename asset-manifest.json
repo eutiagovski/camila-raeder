@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/camila-raeder/static/css/main.1d753f2e.css",
-    "main.js": "/camila-raeder/static/js/main.3d339e85.js",
+    "main.css": "/camila-raeder/static/css/main.7cc988ac.css",
+    "main.js": "/camila-raeder/static/js/main.fe105468.js",
     "static/media/23.png": "/camila-raeder/static/media/23.16bd7fa61ef72de1fd19.png",
     "static/media/corrente-russa-corporal.png": "/camila-raeder/static/media/corrente-russa-corporal.49d322273d63bcad877a.png",
     "static/media/22.png": "/camila-raeder/static/media/22.514b6970dd64ea0d75ad.png",
@@ -33,11 +33,11 @@
     "static/media/clinica-camila-logo.png": "/camila-raeder/static/media/clinica-camila-logo.7a448037313e60b08a10.png",
     "static/media/27.png": "/camila-raeder/static/media/27.90ebcd50e20a0ef51358.png",
     "index.html": "/camila-raeder/index.html",
-    "main.1d753f2e.css.map": "/camila-raeder/static/css/main.1d753f2e.css.map",
-    "main.3d339e85.js.map": "/camila-raeder/static/js/main.3d339e85.js.map"
+    "main.7cc988ac.css.map": "/camila-raeder/static/css/main.7cc988ac.css.map",
+    "main.fe105468.js.map": "/camila-raeder/static/js/main.fe105468.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d753f2e.css",
-    "static/js/main.3d339e85.js"
+    "static/css/main.7cc988ac.css",
+    "static/js/main.fe105468.js"
   ]
 }
