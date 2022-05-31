@@ -6,6 +6,12 @@ import * as BsIcons from 'react-icons/bs'
 import "./navbar.css";
 
 const Navbar = () => {
+
+  const handleNavbar = () => {
+    var navbar = document.getElementById('navbarSupportedContent')
+    navbar.className = 'collapse navbar-collapse';
+  }
+
   return (
     <div>
       <nav class="navbar navbar-expand-lg fixed-top">
@@ -30,9 +36,9 @@ const Navbar = () => {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-items">
+            <ul class="navbar-nav nav-items" onClick={handleNavbar}>
               <li class="nav-item">
-                <a class="nav-link" href="#services">
+                <a class="nav-link" href="#services" >
                   Procedimentos
                 </a>
               </li>

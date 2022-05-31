@@ -1,5 +1,5 @@
 .header-content {
-  padding: 3rem 0 0 0;
+  padding: 4rem 0 0 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -12,34 +12,13 @@
 .header-title-content > h1 {
   font-size: 80px;
   color: var(--color-primary);
-  padding: 0 0 1rem 0;
+  padding-top: 10%;
 }
 
 .header-image {
     max-width: 100%;
     max-height: 100%;
   }
-
-@media screen and (max-width: 1024px) {
-  .header-content {
-    padding: 3rem 0 2rem 0;
-    position: relative;
-
-  }
-  .header-image {
-    position: absolute;
-    z-index: -1;
-    max-width: fit-content;
-  }
-  .header-title-content h1 {
-    font-size: 50px;
-    padding: 5% 60% 0 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: left;
-  }
-}
 
 @media screen and (max-width: 1024px) {
   .header-content {
@@ -50,6 +29,14 @@
     left: 0;
     width: 100%;
     z-index: -1;
+  }
+  .header-title-content h1 {
+    font-size: 50px;
+    padding: 5% 60% 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
   }
 }
 
@@ -63,7 +50,7 @@
     z-index: -1;
   }
   .header-title-content h1 {
-    font-size: 35px;
-    padding: 20% 50% 0% 10%;
+    font-size: 40px;
+    padding: 20% 40% 0% 10%;
   }
 }

@@ -6,4 +6,6 @@
 .instagram-card .card-title {
     padding: 2rem 0 0 0;
     color: var(--color-primary);
+    text-align: center;
+
 }

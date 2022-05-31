@@ -80,13 +80,13 @@
     text-align: justify;
   }
   .btn {
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     margin-top: 2rem;
     padding-top: 1rem;
   }
   .services-links  {
     display: inline;
-    padding: 2rem 0rem;
+    text-align: center;
   }
   .services-links a {
     display: inline-block;
@@ -94,5 +94,6 @@
   }
   .service-image {
     max-width: 100%;
+    padding-bottom: 1rem;
   }
 }

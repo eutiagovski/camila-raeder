@@ -4,8 +4,8 @@ import "./header.css";
 const Header = () => {
   return (
     <div id="header">
-      <div className="container-fluid d-inline justify-content-center">
-        <div className="row header-content w-100">
+      <div className="container-fluid">
+        <div className="row d-flex justify-content-center header-content w-100">
           <div className="col-lg-6 col-sm-12 w-50">
             <img
               src={require(`../../img/1.png`)}

@@ -40,8 +40,13 @@ a {
 }
 
 @media screen and (max-width: 600px) {
+    .navbar-collapse {
+        justify-content: center;
+        text-align: center;
+        padding: 1rem 0;
+    }
     .fixed-btn {
-        top: 60%;
+        top: 80%;
         right: 10%;
     }
 }
