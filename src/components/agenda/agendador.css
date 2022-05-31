@@ -1,0 +1,35 @@
+.agendador-container {
+    padding: 2rem 0;
+    color: black;
+    margin: auto;
+    background-color: var(--color-primary);
+}
+
+.agendador-card {
+    margin: auto;
+}
+
+.agendador-card .card-title {
+    padding: 2rem 0;
+    color: var(--color-primary);
+}
+.agendador-form {
+    display: flex;
+    text-align: start;
+    padding: 0rem 1rem;
+}
+.form-items {
+    padding: 0 1rem;
+}
+.form-items .btn {
+    display: flex;
+    justify-content: flex-end;
+    text-align: end;
+}
+.form-item {
+    padding: 0.5rem 0;
+}
+.calendar-hour, .calendar-date {
+    display: flex;
+    align-items: center;
+}

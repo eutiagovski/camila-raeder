@@ -1,0 +1,9 @@
+.instagram-widget {
+    padding: 2rem;
+    background-color: var(--color-bg-variant);
+}
+
+.instagram-card .card-title {
+    padding: 2rem 0 0 0;
+    color: var(--color-primary);
+}
