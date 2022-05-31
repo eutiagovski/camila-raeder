@@ -17,7 +17,6 @@ const Header = () => {
             <h1>Clínica de Saúde & Biomedicina Estética</h1>
             <button className="btn btn-primary mt-3">
               <a
-                className="btn btn-primary btn-md"
                 href="https://api.whatsapp.com/send?phone=5521972559811&text="
                 target="_blank"
               >
