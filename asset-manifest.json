@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eb815cee.css",
-    "main.js": "/static/js/main.a1320839.js",
+    "main.js": "/static/js/main.d556c213.js",
     "static/media/23.png": "/static/media/23.16bd7fa61ef72de1fd19.png",
     "static/media/corrente-russa-corporal.png": "/static/media/corrente-russa-corporal.49d322273d63bcad877a.png",
     "static/media/22.png": "/static/media/22.514b6970dd64ea0d75ad.png",
@@ -34,10 +34,10 @@
     "static/media/27.png": "/static/media/27.90ebcd50e20a0ef51358.png",
     "index.html": "/index.html",
     "main.eb815cee.css.map": "/static/css/main.eb815cee.css.map",
-    "main.a1320839.js.map": "/static/js/main.a1320839.js.map"
+    "main.d556c213.js.map": "/static/js/main.d556c213.js.map"
   },
   "entrypoints": [
     "static/css/main.eb815cee.css",
-    "static/js/main.a1320839.js"
+    "static/js/main.d556c213.js"
   ]
 }
