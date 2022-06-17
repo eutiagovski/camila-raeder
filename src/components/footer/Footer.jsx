@@ -34,8 +34,8 @@ const Footer = () => {
             <div className="col-sm-3 footer-item">
               <h1>Horários de Funcionamento</h1>
               <ul>
-                <li>Segunda à Sexta: 08:00 as 19:00</li>
-                <li>Sábado: 08:00 as 16:00</li>
+                <li>Segunda a Sexta: 08:00 às 19:00</li>
+                <li>Sábado: 08:00 às 16:00</li>
               </ul>
             </div>
             <div className="col-sm-2 footer-item">
